@@ -10,7 +10,7 @@
 1. Клонируйте репозиторий на ваше устройство:
 
     ```bash
-    git clone https://github.com/Andrew-Rom/gb_spec-backend_django_fin.git
+    git clone https://github.com/9032231638/11.git)
     ```
 
 2. Установите зависимости:
